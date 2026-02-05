@@ -1,0 +1,7 @@
+{
+  "name": "SkillForge AI",
+  "description": "Generate, refine, and export professional-grade AI agent skillsets from simple ideas. Transform concepts into installable npx packages with full documentation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
